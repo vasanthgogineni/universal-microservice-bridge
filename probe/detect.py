@@ -1,4 +1,3 @@
-# universal_connector/probe/detect.py
 import socket
 
 def probe_http(addr: str, timeout: float = 0.5) -> bool:
