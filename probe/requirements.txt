@@ -1,0 +1,11 @@
+kubernetes
+pyyaml
+requests
+grpcio
+grpcio-reflection
+pika
+confluent-kafka
+openai
+fastapi
+uvicorn
+httpx

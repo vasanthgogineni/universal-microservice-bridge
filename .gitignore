@@ -1,71 +1,18 @@
-# Byte-compiled / optimized / DLL files
+# Python
 __pycache__/
 *.py[cod]
-*$py.class
-
-# C extensions
 *.so
-
-# Distribution / packaging
-.Python
-build/
-develop-eggs/
-dist/
-eggs/
-*.egg-info/
-.installed.cfg
-*.egg
-lib/
-lib64/
-parts/
-sdist/
-var/
-*.whl
-
-# Virtual environments
 .venv/
-venv/
 env/
-ENV/
-env.bak/
-venv.bak/
+venv/
 
-# VSCode settings
-.vscode/
-
-# PyCharm settings
-.idea/
-
-# mypy
-.mypy_cache/
-.dmypy.json
-
-# Coverage / testing
-.coverage
-.coverage.*
-.cache
-nosetests.xml
-coverage.xml
-*,cover
-htmlcov/
-.tox/
-
-# Logs and databases
-*.log
-*.sqlite3
-
-# OS files
-.DS_Store
-Thumbs.db
-
-# Kubernetes manifests (if you don’t want to track generated files)
+# Docker & Kubernetes
 *.yaml
 *.yml
-
-# Docker
 docker-compose.override.yml
 .env
 
-# Secrets
-*.key
-*.pem
+# IDEs & Tools
+.vscode/
+.idea/
+.DS_Store
